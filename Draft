@@ -1,0 +1,11 @@
+#include <iostream>
+using namespace std;
+int main() {
+    //int N, M; 
+    //cin >> N >> M; 
+    cout << "_________" << endl; 
+    cout << "|___|" << "|___|"<<endl; 
+    cout << "|___|" << "|___|"<<endl; 
+    cout << "|___|" << "|___|"<<endl; 
+    return 0;
+}
